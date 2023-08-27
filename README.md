@@ -10,6 +10,16 @@ The My RESTful CRUD API project is a customizable and extensible API that allows
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 
+- ## Technologies Used
+
+The My RESTful CRUD API utilizes the following technologies:
+
+- **Node.js:** The JavaScript runtime that serves as the foundation for server-side development.
+- **Express:** A Node.js web application framework simplifying the creation of server-side applications.
+- **MongoDB:** A NoSQL database management system that efficiently stores and retrieves data.
+- **Mongoose:** A MongoDB object modeling tool for Node.js, streamlining database interactions.
+
+
 ## Installation
 
 1. Clone the repository to your local machine using:https://github.com/musman12529/My-RESTFUL-CRUD-API.git
